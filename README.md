@@ -45,6 +45,11 @@ $ rabbitmqctl cluster_status
 ![nod](img/Node2.png)
 Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
 
+![nod](img/Node3.png)
+![nod](img/Node4.png)
+![nod](img/Node5.png)
+![nod](img/Node6.png)
+![nod](img/Node7.png)
 
 
 $ rabbitmqadmin get queue='hello'
